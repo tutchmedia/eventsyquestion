@@ -1,0 +1,1 @@
+{"id":"e5cb8151-1912-41e8-91fe-55067658be14","js":[{"path":"phonegap.js","remote":true},{"path":"app.js","update":"delta"},{"path":"Ux/palominolabs/stackmob/data/proxy/StackMob.js"}],"css":[{"path":"theme/cupertino-00d926c3-96b4-4fdd-a180-eba70d32d81d.css","update":"delta","theme":"Cupertino","platform":["phone","tablet","desktop"]},{"path":"resources/style.css"}]}
